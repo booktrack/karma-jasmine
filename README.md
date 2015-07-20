@@ -2,6 +2,7 @@
 
 > Adapter for the [Jasmine](http://jasmine.github.io/) testing framework.
 
+# This is a temporary fork to allow transition from jasmine 1 to jasmine 2. NPM does not allow multiple node modules with same name
 
 ## Installation
 
